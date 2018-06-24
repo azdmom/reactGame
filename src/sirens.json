@@ -1,0 +1,32 @@
+[
+    {
+    "id": 1,
+    "name": "Ingrid Bergman",
+    "photographer": "Robert Capa",
+    "image": "https://fansinaflashbulb.wordpress.com/2011/09/16/screen-sirens-of-the-1940s/#jp-carousel-7669"
+  },
+  {
+    "id": 2,
+    "name": "Rita Hayworth",
+    "photographer": "George Hurrell",
+    "image": "https://fansinaflashbulb.wordpress.com/2011/09/16/screen-sirens-of-the-1940s/#jp-carousel-7672"
+  },
+  {
+    "id": 3,
+    "name": "Ava Gardner",
+    "photographer": "MGW",
+    "image": "https://fansinaflashbulb.wordpress.com/2011/09/16/screen-sirens-of-the-1940s/#jp-carousel-7723"
+  },
+  {
+    "id": 4,
+    "name": "Hedy Lamarr",
+    "photographer": "George Hurrell",
+    "image": "https://i.pinimg.com/736x/2c/73/e4/2c73e4591faa870b92da7b51de95cb3e.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hedy Lamarr",
+    "photographer": "George Hurrell",
+    "image": "http://www.mylusciouslife.com/photos-vivien-leigh-country-home-tickerage-mill-sussex-england/"
+  }
+]
